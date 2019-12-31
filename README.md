@@ -1,5 +1,9 @@
 # zend-container-config-test
 
+> ## Repository abandoned 2019-12-31
+>
+> This repository has moved to laminas/laminas-container-config-test.
+
 [![Build Status](https://secure.travis-ci.org/zendframework/zend-container-config-test.svg?branch=master)](https://secure.travis-ci.org/zendframework/zend-container-config-test)
 [![Coverage Status](https://coveralls.io/repos/github/zendframework/zend-container-config-test/badge.svg?branch=master)](https://coveralls.io/github/zendframework/zend-container-config-test?branch=master)
 
